@@ -1,3 +1,5 @@
+Following along with a Scrimba Class
+
 # coc26489788a896f326eebb8e
 
 Quick start:
