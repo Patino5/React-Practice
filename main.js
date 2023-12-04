@@ -79,7 +79,7 @@
 
 const navbar = (
     <nav>
-        <h1>Ryan's Bistro</h1>
+        <h1>Bob's Bistro</h1>
         <ul>
             <li>Menu</li>
             <li>About</li>
