@@ -1,5 +1,7 @@
 Following along with a Scrimba Class
 
+Deployed here on Netify: https://ryans-react-practice.netlify.app
+
 # coc26489788a896f326eebb8e
 
 Quick start:
